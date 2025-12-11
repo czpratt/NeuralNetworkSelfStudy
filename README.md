@@ -1,5 +1,5 @@
 Proof of work for self-studying neural networks while concurrently writing my PhD thesis
 
-Includes:
+Includes the unpolished works:
 - Notes and solutions to the Zero to Hero series by Andrej Karpathy
 - (in progress) Reproducing Sohl-Dickstein 2015
