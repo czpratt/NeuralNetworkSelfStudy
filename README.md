@@ -1,1 +1,1 @@
-# NeuralNetworkSelfStudy
+Proof of work
